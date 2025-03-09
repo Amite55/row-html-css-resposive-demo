@@ -60,9 +60,10 @@ nav ul li{
     nav ul li{
         display: block;
         font-size: 20px;
+        margin-top: 10px
     };
 
-    li:hover{
+    nav ul li:hover{
         background: none;
         color: #0082e6;
     }
